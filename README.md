@@ -1,4 +1,4 @@
-# BreadcrumbsLGM-VIP-August-Batch-Task-3
+# LGM-VIP-August-Batch-Task-3
 
 INTERMEDIATE LEVEL TASK
 
